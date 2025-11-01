@@ -6,6 +6,9 @@ This project is the successful completion of the take-home assignment for the Mo
 
 The application features a clean, intuitive UI/UX and incorporates several bonus features, showcasing attention to detail and clean code organization.
 
+
+https://github.com/user-attachments/assets/952f842f-f6c2-4ecc-8115-85c498a6d85d
+
 ---
 
 ## 📱 Framework Choice
